@@ -2,7 +2,7 @@
 
 CLI for Qingmang
 
-<div align="center"><img width="50%" height="50%" src="https://raw.githubusercontent.com/LitoMore/qingmang-cli/master/screenshot.png" /></div>
+<div align="center"><img width="100%" height="100%" src="https://raw.githubusercontent.com/LitoMore/qingmang-cli/master/screenshot.png" /></div>
 
 ## Install
 
