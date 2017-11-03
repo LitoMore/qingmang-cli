@@ -1,0 +1,39 @@
+{
+  "name": "qingmang-cli",
+  "version": "1.0.0",
+  "description": "CLI for Qingmang",
+  "bin": {
+    "qingmang-cli": "cli.js"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LitoMore/qingmang-cli.git"
+  },
+  "author": "LitoMore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LitoMore/qingmang-cli/issues"
+  },
+  "homepage": "https://github.com/LitoMore/qingmang-cli#readme",
+  "devDependencies": {
+    "standard": "^10.0.3"
+  },
+  "dependencies": {
+    "boxen": "^1.2.2",
+    "chalk": "^2.3.0",
+    "cli-cursor": "^2.1.0",
+    "cli-table2": "^0.2.0",
+    "conf": "^1.3.1",
+    "got": "^7.1.0",
+    "inquirer": "^3.3.0",
+    "inquirer-chalk-pipe": "^1.1.0",
+    "jetty": "^0.2.1",
+    "keypress": "^0.2.1",
+    "meow": "^3.7.0",
+    "pangu": "^3.3.0",
+    "term-size": "^1.2.0"
+  }
+}
