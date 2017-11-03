@@ -2,9 +2,15 @@
 
 CLI for Qingmang
 
+<div align="center"><img width="50%" height="50%" src="https://raw.githubusercontent.com/LitoMore/qingmang-cli/master/screenshot.png" /></div>
+
 ## Install
 
-> To be written
+*To be written*
+
+## Usage
+
+*To be written*
 
 ## Related
 
